@@ -1,0 +1,8 @@
+C:\Users\User_pc\Documents\ALEXANDRE\Projects em C#\MultiplicacaoMatrizes\MultiplicacaoMatrizes\bin\Debug\MultiplicacaoMatrizes.exe.config
+C:\Users\User_pc\Documents\ALEXANDRE\Projects em C#\MultiplicacaoMatrizes\MultiplicacaoMatrizes\bin\Debug\MultiplicacaoMatrizes.exe
+C:\Users\User_pc\Documents\ALEXANDRE\Projects em C#\MultiplicacaoMatrizes\MultiplicacaoMatrizes\bin\Debug\MultiplicacaoMatrizes.pdb
+C:\Users\User_pc\Documents\ALEXANDRE\Projects em C#\MultiplicacaoMatrizes\MultiplicacaoMatrizes\obj\Debug\MultiplicacaoMatrizes.csproj.AssemblyReference.cache
+C:\Users\User_pc\Documents\ALEXANDRE\Projects em C#\MultiplicacaoMatrizes\MultiplicacaoMatrizes\obj\Debug\MultiplicacaoMatrizes.csproj.SuggestedBindingRedirects.cache
+C:\Users\User_pc\Documents\ALEXANDRE\Projects em C#\MultiplicacaoMatrizes\MultiplicacaoMatrizes\obj\Debug\MultiplicacaoMatrizes.csproj.CoreCompileInputs.cache
+C:\Users\User_pc\Documents\ALEXANDRE\Projects em C#\MultiplicacaoMatrizes\MultiplicacaoMatrizes\obj\Debug\MultiplicacaoMatrizes.exe
+C:\Users\User_pc\Documents\ALEXANDRE\Projects em C#\MultiplicacaoMatrizes\MultiplicacaoMatrizes\obj\Debug\MultiplicacaoMatrizes.pdb
